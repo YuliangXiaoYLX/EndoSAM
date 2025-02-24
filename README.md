@@ -8,6 +8,8 @@
  * I Love IU
  * Copyright (c) 2023 by Chris Xiao yl.xiao@mail.utoronto.ca, All Rights Reserved. 
 -->
+![EndoSAM](https://socialify.git.ci/mikami520/EndoSAM/image?custom_description=Fine-tune+for+Endoscope+Instruments&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Light)
+
 # EndoSAM
 Fine-tune for endoscope clapster segmentation (adapted from [SurgicalSAM](https://github.com/wenxi-yue/SurgicalSAM) but provided all scripts for fine-tune)
 <!-- TOC -->
@@ -62,3 +64,14 @@ The prediction results will be saved into the ```test_folder``` you provide in t
 [1] Allan, M.; Shvets, A.; Kurmann, T.; Zhang, Z.; Duggal, R.; Su, Y.-H.; Rieke, N.; Laina, I.; Kalavakonda, N.; Bodenstedt, S.; Herrera, L.; Li, W.; Iglovikov, V.; Luo, H.; Yang, J.; Stoyanov, D.; Maier-Hein, L.; Speidel, S.; and Azizian, M. 2019. 2017 Robotic Instrument Segmentation Challenge. arXiv:1902.06426.
 
 [2] Allan, M.; Kondo, S.; Bodenstedt, S.; Leger, S.; Kadkhodamohammadi, R.; Luengo, I.; Fuentes, F.; Flouty, E.; Mohammed, A.; Pedersen, M.; Kori, A.; Alex, V.; Krishnamurthi, G.; Rauber, D.; Mendel, R.; Palm, C.; Bano, S.; Saibro, G.; Shih, C.-S.; Chiang, H.-A.; Zhuang, J.; Yang, J.; Iglovikov, V.; Dobrenkii, A.; Reddiboina, M.; Reddy, A.; Liu, X.; Gao, C.; Unberath, M.; Kim, M.; Kim, C.; Kim, C.; Kim, H.; Lee, G.; Ullah, I.; Luna, M.; Park, S. H.; Azizian, M.; Stoyanov, D.; Maier-Hein, L.; and Speidel, S. 2020. 2018 Robotic Scene Segmentation Challenge. arXiv:2001.11190.
+
+## Star History
+<p align="center">
+    <a href="https://star-history.com/#mikami520/EndoSAM&Date">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date&theme=dark" />
+       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
+       <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
+     </picture>
+    </a>
+</p>
