@@ -65,12 +65,14 @@ The prediction results will be saved into the ```test_folder``` you provide in t
 
 [2] Allan, M.; Kondo, S.; Bodenstedt, S.; Leger, S.; Kadkhodamohammadi, R.; Luengo, I.; Fuentes, F.; Flouty, E.; Mohammed, A.; Pedersen, M.; Kori, A.; Alex, V.; Krishnamurthi, G.; Rauber, D.; Mendel, R.; Palm, C.; Bano, S.; Saibro, G.; Shih, C.-S.; Chiang, H.-A.; Zhuang, J.; Yang, J.; Iglovikov, V.; Dobrenkii, A.; Reddiboina, M.; Reddy, A.; Liu, X.; Gao, C.; Unberath, M.; Kim, M.; Kim, C.; Kim, C.; Kim, H.; Lee, G.; Ullah, I.; Luna, M.; Park, S. H.; Azizian, M.; Stoyanov, D.; Maier-Hein, L.; and Speidel, S. 2020. 2018 Robotic Scene Segmentation Challenge. arXiv:2001.11190.
 
-## Star History
+# Star History
 
-<a href="https://www.star-history.com/#mikami520/EndoSAM&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
- </picture>
-</a>
+<p align="center">
+    <a href="https://www.star-history.com/#mikami520/EndoSAM&Date">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date&theme=dark" />
+       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
+       <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/EndoSAM&type=Date" />
+     </picture>
+    </a>
+</p>
