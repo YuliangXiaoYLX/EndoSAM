@@ -173,10 +173,3 @@ if __name__ == '__main__':
         save_dir = os.path.join(ckpt_exp_path, 'ckpt.pth')
         save_checkpoint(model, optimizer, epoch, best_val_loss, train_losses, val_losses, save_dir)
         plot_progress(logger, plot_exp_path, train_losses, val_losses, 'loss')
-    
-    
-    
-    
-    
-
-    
