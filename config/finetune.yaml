@@ -3,13 +3,13 @@ model:
   class_num: 2
   sam_model_customized: true
   sam_model_type: default
-  sam_model_dir: /home/iu/Desktop/EndoSAM/sam_ckpts/default.pth
+  sam_model_dir: /path/to/SAM/checkpoint.pth
   encoder_size: 1024
 dataset:
   class_names:
   - background
   - instrument-clapster
-  dataset_dir: /home/iu/Downloads/all_data
+  dataset_dir: /path/to/your/dataset
   img_format: jpg
   ann_format: png
 losses:
@@ -26,8 +26,8 @@ val_bs: 2
 test_bs: 1
 num_workers: 20
 num_token: 4
-log_folder: /home/iu/Desktop/EndoSAM_experiment/log
-model_folder: /home/iu/Desktop/EndoSAM_experiment/model
-ckpt_folder: /home/iu/Desktop/EndoSAM_experiment/checkpoint
-plot_folder: /home/iu/Desktop/EndoSAM_experiment/plots
-test_folder: /home/iu/Desktop/EndoSAM_experiment/inference
+log_folder: /path/to/log
+model_folder: /path/to/model
+ckpt_folder: /path/to/checkpoint
+plot_folder: /path/to/plots
+test_folder: /path/to/inference
